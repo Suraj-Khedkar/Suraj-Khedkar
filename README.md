@@ -14,15 +14,15 @@
 
 <br />
 
-Hi, I'm Suraj Khedkar, a Web Enthusiast 🚀, Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/)
+Hi, I'm Suraj Khedkar, a Computer Enthusiast 💻 and a Web developer 👨‍💻. 
 
 ## About me:
 
 - 🎓 I'm currently pursing my undergrad in CSE at IIIT Nagpur;
-- 🌱 I’m currently learning NextJS,reactJS;
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I'm well versatile with MERN stack;
+- 💬 Actively looking for 6 months internship;
 - 📫 Reach out to me at: [@Suraj-Khedkar](https://www.linkedin.com/in/suraj-khedkar-5a26021a4/);
-- 📝[Resume](https://drive.google.com/file/d/1tdOkR6zTYDdsXF9BpvO8apwGG815wEG5/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1DrUoWp2gOhFnXmF9lIxfJFC6sBCWQzAY/view?usp=sharing)
 
 ## Languages and Tools:  
 
@@ -36,17 +36,6 @@ Hi, I'm Suraj Khedkar, a Web Enthusiast 🚀, Freelancer 👨🏽‍💻 [@Upwor
 <a href="" ><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"></a>
 <a href="" ><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
 
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Django       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
-C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.04 % 
-NodeJS       52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-```
-<!--END_SECTION:waka-->
 
 <details>
 <summary>📈 My GitHub Stats</summary>
