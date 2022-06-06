@@ -19,7 +19,7 @@ Hi, I'm Suraj Khedkar, a Computer Enthusiast 💻 and a Web developer 👨‍�
 ## About me:
 
 - 🎓 I'm currently pursing my undergrad in CSE at IIIT Nagpur;
-- 🌱 I'm well versatile with MERN stack;
+- 🌱 I'm well versatile with MERN stack and currently learning Angular.js;
 - 💬 Actively looking for 6 months internship;
 - 📫 Reach out to me at: [@Suraj-Khedkar](https://www.linkedin.com/in/suraj-khedkar-5a26021a4/);
 - 📝[Resume](https://drive.google.com/file/d/1DrUoWp2gOhFnXmF9lIxfJFC6sBCWQzAY/view?usp=sharing)
