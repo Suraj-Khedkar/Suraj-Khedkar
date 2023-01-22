@@ -6,7 +6,7 @@
 <a href="https://www.hackerrank.com/snk_khedkar">
   <img align="left" alt="Suraj's Hackerrank" width="22px"  src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" />
 </a>
-<a href="https://leetcode.com/K_suraj/">
+<a href="https://leetcode.com/SurajKhedkar/">
   <img align="left" alt="Suraj's Leetcode" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
 </a>
 
